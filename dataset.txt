@@ -1,0 +1,2 @@
+curl -X GET \
+     "https://datasets-server.huggingface.co/rows?dataset=MongoDB%2Fembedded_movies&config=default&split=train&offset=0&length=100"
